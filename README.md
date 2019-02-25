@@ -82,7 +82,7 @@ npm start
     composer -o dump-autoload
     ```
 
-## :rotating_light: Liniting Files
+## :rotating_light: Linting Files
 
 ### Automatic
 
